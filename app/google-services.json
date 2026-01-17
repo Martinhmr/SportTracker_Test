@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638768196506",
+    "project_id": "sporttracker-61323",
+    "storage_bucket": "sporttracker-61323.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638768196506:android:f0a0a82c0de4bd1bd06823",
+        "android_client_info": {
+          "package_name": "biz.itonline.sporttracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVHSs-IkTblfiDsKZDxtuuUi2aBHyRRho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
